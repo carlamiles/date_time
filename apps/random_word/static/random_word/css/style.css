@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    vertical-align: top;
+    font-family: san-serif;
+    box-sizing: border-box;
+}
+h3 {
+    width: 300px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h2 {
+    border: 2px solid black;
+    padding: 5px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+a:link, a:visited {
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    color: black;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
